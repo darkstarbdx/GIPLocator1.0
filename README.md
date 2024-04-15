@@ -4,8 +4,8 @@ Location Tracker with Google Map Link - v1.0
 
 <b>Installation:</b>
 
-📱Termux
-
+**_📱Termux_
+**
 
 pkg install git
 
@@ -17,8 +17,8 @@ chmod +x ipl.py
 
 python3 ipl.py
 
-💻 Linux
-
+**_💻Linux_
+**
 
 sudo apt-get update
 sudo apt-get install git
