@@ -23,11 +23,11 @@ sudo apt-get update
 
 sudo apt-get install git
 
-git clone https://github.com/darkstarbdx/ds_ipl
+sudo git clone https://github.com/darkstarbdx/ds_ipl
 
 cd ds_ipl
 
-chmod +x ipl.py
+sudo chmod +x ipl.py
 
-python3 ipl.py
+sudo python3 ipl.py
 
