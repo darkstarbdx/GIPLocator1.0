@@ -1,5 +1,4 @@
-# ds_ipl
-Location Tracker with Google Map Link - v1.0 
+# Location Tracker with Google Map Link - v1.0 
 
 
 <b>Installation:</b>
