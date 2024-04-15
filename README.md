@@ -3,8 +3,8 @@
 
 <b>Installation:</b>
 
-**_📱Termux_
-**
+_📱Termux_
+
 
 pkg install git
 
@@ -16,10 +16,11 @@ chmod +x ipl.py
 
 python3 ipl.py
 
-**_💻Linux_
-**
+_💻Linux_
+
 
 sudo apt-get update
+
 sudo apt-get install git
 
 git clone https://github.com/darkstarbdx/ds_ipl
