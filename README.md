@@ -3,7 +3,7 @@
 
 <b>Installation:</b>
 
-#_📱Termux_
+# Termux
 
 ```
 pkg install git
@@ -17,7 +17,7 @@ chmod +x ipl.py
 python3 ipl.py
 
 ```
-#_💻Linux_
+# Linux
 
 ```
 sudo apt-get update
