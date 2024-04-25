@@ -10,7 +10,7 @@ pkg install git
 
 git clone https://github.com/darkstarbdx/GIPLocator1.0
 
-cd ds_ipl
+cd GIPLocator1.0
 
 chmod +x ipl.py
 
@@ -26,7 +26,7 @@ sudo apt-get install git
 
 sudo git clone https://github.com/darkstarbdx/GIPLocator1.0
 
-cd ds_ipl
+cd GIPLocator1.0
 
 sudo chmod +x ipl.py
 
